@@ -2,7 +2,7 @@
 
 A single-file, zero-dependency workout tracker for a 6-day Push/Pull/Legs split built around heavy 5×5 anchor lifts, superset hypertrophy blocks, and separate midday conditioning sessions. No build step, no backend, no account — one HTML file.
 
-**Live app:** `https://<your-username>.github.io/<repo-name>/`
+**Live app:** `https://ip-medjed.github.io/Workout-Tracker/`
 
 ## Features
 
